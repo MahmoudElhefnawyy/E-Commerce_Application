@@ -30,3 +30,6 @@ To set up and run the **E-Commerce_Application** on your local machine, follow t
 1. **Clone the Repository**:
    - Open a terminal or command prompt.
    - Run the following command to clone the repository:
+```
+git clone https://github.com/MahmoudElhefnawyy/E-Commerce_Application.git
+```
