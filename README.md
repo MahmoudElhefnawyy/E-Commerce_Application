@@ -1,5 +1,12 @@
 # E-Commerce_Application
 
+<div align="center">
+  <img src="Run_Preview.png" alt="Quantum Bookstore App Preview" width="1200" height="800"/>
+  
+  [![Java](https://img.shields.io/badge/Java-17-blue)](https://www.java.com/)
+  [![Maven](https://img.shields.io/badge/Maven-3.9.6-orange)](https://maven.apache.org/)
+</div>
+
 This is a Java-based e-commerce application designed to implement a fully functional shopping system. The application includes product management, a shopping cart, a checkout process with shipping and payment handling, and comprehensive exception handling. It was developed as part of the Fawry Rise Journey Full Stack Development Internship Challenge to demonstrate proficiency in Java programming, object-oriented design, and error management. The project is built using a single Java file (`ECommerceSystem.java`) and managed with Maven, making it easy to compile and run in NetBeans.
 
 ## Features
